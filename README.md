@@ -10,7 +10,7 @@ Some technologies I enjoy working with include Java, C++, Linux, Godot, Blender 
 - Interests outside of CS/Games include: Maths, Science, Politics, Animal Rights, Poker & Game Theory, Reading *(Non-Fic & World History)*, and Hiking
 
 <hr>
-<p align="centre">
+<p align="center">
   <a href="https://www.linkedin.com/in/kyle-dunbar-220308318/">Get in touch!</a>
 </p>
 
