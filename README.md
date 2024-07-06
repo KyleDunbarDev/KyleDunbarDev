@@ -7,7 +7,7 @@ Some technologies I enjoy working with include Java, C++, Linux, Godot, Blender 
 - I am currently working on a Metroidvania game about gods in the animal kingdom. <sub>Stay tuned</sub>
 - I'm currently learning Rust, DSA, and systems engineering
 - Reading 《Rust Programming Language》《Structure & Interpretation of Computer Programs》
-- Interests outside of CS/Games include: Maths, Science, Politics, Animal Rights, Poker & Game Theory, Reading *(Non-Fic & World History)*, Hiking
+- Interests outside of CS/Games include: Maths, Science, Politics, Animal Rights, Poker & Game Theory, Reading *(Non-Fic & World History)*, and Hiking
 
 <hr>
 <p align="centre">
