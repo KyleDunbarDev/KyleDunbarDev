@@ -1,7 +1,7 @@
 # Hi, I’m Kyle 👋 
 <sub>He/Him</sub>
 
-I'm a Computer Science with Game Development student at Northumbria University. I am passionate about open source, performant systems, and safe code. 
+I'm a Computer Science with Games Development student at Northumbria University. I am passionate about open source, performant systems, and safe code. 
 Some technologies I enjoy working with include Java, C++, Linux, Godot and Blender.
 
 - I am currently working on a Metroidvania game about gods in the animal kingdom. <sub>Stay tuned</sub>
