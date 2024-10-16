@@ -2,7 +2,7 @@
 <sub>He/Him</sub>
 
 I'm a Computer Science with Games Development student at Northumbria University. I am passionate about open source, performant systems, and safe code. 
-Some technologies I enjoy working with include Java, C++, Linux, Godot and Blender.
+Some technologies I enjoy working with include Java, Rust, Linux, and Godot.
 
 - I am currently working on a Metroidvania game about gods in the animal kingdom. <sub>Stay tuned</sub>
 - I'm currently learning Rust, DSA, and Systems Engineering
