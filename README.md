@@ -1,13 +1,14 @@
 # Hi, I’m Kyle 👋 
 <sub>He/Him</sub>
 
-I'm a Computer Science with Games Development student at Northumbria University. I am passionate about open source, performant systems, and safe code. 
-Some technologies I enjoy working with include Java, Rust, Linux, and Godot.
+I'm a Computer Science student at Northumbria University. I am passionate about open source, performant systems, low level engineer, and safe code. 
+Some technologies I enjoy working with include Rust, Linux, and Godot.
 
-- I am currently working on a Metroidvania game about gods in the animal kingdom. <sub>Stay tuned</sub>
+- I am currently working on from-scratch video games<sub>Stay tuned</sub>
 - I'm currently learning Rust, DSA, and Systems Engineering
-- Reading 《Rust Programming Language》《Structure & Interpretation of Computer Programs》
-- Interests outside of CS/Games include: Maths, Science, Politics, Animal Rights, Poker & Game Theory, Reading *(Non-Fic & World History)*, and Hiking
+- Experienced in Python and Java
+- Reading 《Rust Programming Language》《Clean Architecture: A Craftman's Guide to Software Structure & Design》
+- Interests outside of CS/Game Dev include: Maths, Science, Politics, Animal Rights, Game Theory, Reading *(Non-Fic & World History)*, and Hiking
 
 <hr>
 <p align="center">
