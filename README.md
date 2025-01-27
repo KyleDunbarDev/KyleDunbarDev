@@ -4,7 +4,7 @@
 I'm a Computer Science student at Northumbria University. I am passionate about open source, performant systems, low level engineer, and safe code. 
 Some technologies I enjoy working with include Rust, Linux, and Godot.
 
-- I am currently working on from-scratch video games<sub>Stay tuned</sub>
+- I am currently working on from-scratch video games <sub>Stay tuned</sub>
 - I'm currently learning Rust, DSA, and Systems Engineering
 - Experienced in Python and Java
 - Reading 《Rust Programming Language》《Clean Architecture: A Craftman's Guide to Software Structure & Design》
