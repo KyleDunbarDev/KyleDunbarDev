@@ -1,7 +1,7 @@
 # Hi, I’m Kyle 👋 
 <sub>He/Him</sub>
 
-I'm a Computer Science student at Northumbria University. I am passionate about open source, performant systems, low level engineer, and safe code. 
+I'm a Computer Science student at Northumbria University. I am passionate about open source, performant systems, low level engineering, and safe code. 
 Some technologies I enjoy working with include Rust, Linux, and Godot.
 
 - I am currently working on from-scratch video games <sub>Stay tuned</sub>
