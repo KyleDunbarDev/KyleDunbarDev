@@ -6,8 +6,10 @@ Some technologies I enjoy working with include Rust, Linux, and Godot.
 
 - I am currently working on from-scratch video games <sub>Stay tuned</sub>
 - I'm currently learning Rust, DSA, and Systems Engineering
-- Experienced in Python and Java
-- Reading 《Rust Programming Language》《Clean Architecture: A Craftman's Guide to Software Structure & Design》
+- Experienced in Python, Java, C#, SQL, and HTML/CSS
+- Intermediate in Rust
+- Reading《Clean Architecture: A Craftman's Guide to Software Structure & Design》
+- Forever re-reading 《Rust Programming Language》
 - Interests outside of CS/Game Dev include: Maths, Science, Politics, Animal Rights, Game Theory, Reading *(Non-Fic & World History)*, and Hiking
 
 <hr>
